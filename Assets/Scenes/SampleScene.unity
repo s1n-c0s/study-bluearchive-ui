@@ -694,7 +694,7 @@ GameObject:
   - component: {fileID: 1672777489}
   - component: {fileID: 1672777488}
   m_Layer: 5
-  m_Name: Image
+  m_Name: BG-MenuBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
