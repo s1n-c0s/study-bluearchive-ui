@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ae1723a5091c88843826c25ec1d927ac
+guid: c165099c03cf92447afea54293b57b32
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,13 +43,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 50, y: 0, z: 50, w: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -121,18 +121,89 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: icon-Currency_cash
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 126
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a02df52887babe4b8f33e07aaca206a
+      internalID: 1021120108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Currency_gem
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fea9b3fc78efa46b2d6bb1d947ced3
+      internalID: -649675288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon-Currency_energy
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 226
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6d7a1bb60b67843a10f0f25546b9d4
+      internalID: -801259938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      icon-Currency_0: -498730931
+      icon-Currency_2: -506374073
+      icon-Currency_5: 2032461043
+      icon-Currency_6: -2127091504
+      icon-Currency_7: -1435138796
+      icon-Currency_cash: 1021120108
+      icon-Currency_energy: -801259938
+      icon-Currency_gem: -649675288
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
